@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nuwandavek/CDC"
+    "url": "https://github.com/metakgp/cdc"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nuwandavek/CDC/issues"
+    "url": "https://github.com/metakgp/cdc/issues"
   },
-  "homepage": "https://github.com/nuwandavek/CDC",
+  "homepage": "https://github.com/metakgp/cdc",
   "dependencies": {
     "grunt": "^0.4.5"
   },
